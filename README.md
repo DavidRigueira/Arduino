@@ -1,2 +1,2 @@
 # Arduino
-Pratica de ardunio para clase de entornos de desarrollo 1ºDAM
+Proyecto de codigos de arduino para distintas aplicaciones y su aplicacion practica con planos y materias usado en ellas.
